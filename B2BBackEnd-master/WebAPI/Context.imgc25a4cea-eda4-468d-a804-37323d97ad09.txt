@@ -1,0 +1,60 @@
+Domain           Tahmini Efor(fibonacci 8 = 1 gün, 13 - 2 gün, 21 = 3 gün, 34 = 5 gün, 55 = 8 gün, 89 = 13 gün)
+-----------------------------
+Kullannıcı ve Rol yönetimi => 55
+Login ekranı     => 8
+Logout ekranı    => 8
+Şifremi unuttum => 13
+Register(üye ol) => 8
+Sms telefon onay => 8
+Profil sayfası   => 34
+Satıcı Profili(satıcı ürünleri listeleme) => 34
+Message sayfası  => 13
+Active ilanlar   => 13
+Taslak ilanlar   => 8
+Turbolarım       => 8
+Turbo Alım          => 55
+Paket fiyatları     => 13
+Onay bekleyen       => 8 
+Süresi dolan        => 8
+Yayından kalkan     => 8
+Düzenleme bekleyen  => 8
+Favoriye ekleme     => 13
+Favori gösterim     => 8
+Favori notification => 34
+Profil iletişim     => 8
+Şifre değiştirme    => 8
+Mail değiştirme     => 8
+
+
+
+Kategori ağacı => 34
+İlan verme => 55
+Facet(il-ilçe-kategori- cinsiyet - yaş) => 55
+Search => 34
+Listeleme => 55
+Anasayfa tasarım => 55
+Listeleme tasarım => 55
+Sunucu, pipeline deployment süreçleri(sunucu katmanlarının referans yapısı) => 34
+Proje infrastructure oluşturulması(altyapı) => 55
+Gray log monitoring => 21
+
+
+(Google gtm, search console script, google event => 34
+Test süreçleri => 89) Öncelikli değil.
+
+
+
+
+---------------------------
+
+Fotoğraflar sunucuda tutulcak- şimdilik cdn ya da storage gerekmeyecek
+Seo uyumlu olacak
+Mobil uyumlu olacak
+Türev sitelerde ödeme ekranı bulunmuyor, whatsapptan yürütülüyor. Bizim domainimizde siteden ödeme yapılacak (iyzico-paytr)
+Türev sitelerde bulunmayan Favoriye alınma bildirim notification ve mail notification bizim domainimize eklenecek
+Membertype eklenecek. Normal üye - Petshop üye
+
+
+---------------------------
+
+Tahmini süreç 3 - 4 ay
